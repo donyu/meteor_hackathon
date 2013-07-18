@@ -1,4 +1,4 @@
-derby_hackathon
+meteor_hackathon
 ===============
 
-Boilerplate code for Derby framework to make setup easy at future hackathons.
+Boilerplate code for Meteor framework to make setup easy at future hackathons.
